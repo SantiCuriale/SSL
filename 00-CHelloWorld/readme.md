@@ -1,0 +1,1 @@
+compilador = MinGW-w64
